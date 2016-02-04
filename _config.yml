@@ -4,6 +4,6 @@ destination: ./_site
 lsi: false
 pygments: true
 
-auto: true
+auto: false
 title: 税金はどこへ行った？
 
